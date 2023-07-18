@@ -1,0 +1,9 @@
+{
+  "extends": "@tsconfig/node18/tsconfig.json",
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["es2017"],
+    "baseUrl": ".",
+    "outDir": "./dist"
+  }
+}
