@@ -1,3 +1,5 @@
 node_modules
 docker/pg_data
 package-lock.json
+.env
+pnpm-lock.yaml
